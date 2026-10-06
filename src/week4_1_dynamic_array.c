@@ -1,3 +1,17 @@
+/*
+ * week4_1_dynamic_array.c
+ * Author: Emre Elaziz
+ * Student ID: 251ADB139
+ * Description:
+ *   Demonstrates creation and usage of a dynamic array using malloc.
+ *   Allocate memory for n integers, read them from the user,
+ *   print their sum and average, and then free the memory.
+ *
+ *   Output must match the format in the Week 4 instructions exactly
+ *   (it is checked by the autograder).
+ */
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
